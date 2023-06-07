@@ -58,3 +58,7 @@ Game/Engine/x64/Debug/TableDescriptorHeap.obj
 Game/Engine/x64/Debug/Texture.obj
 Game/Engine/x64/Debug/Engine.tlog/unsuccessfulbuild
 Game/Engine/x64/Debug/DepthStencilBuffer.obj
+Game/Client/x64/Debug/Client.tlog/Client.lastbuildstate
+Game/Client/x64/Debug/Client.tlog/rc.command.1.tlog
+Game/Client/x64/Debug/Client.tlog/rc.read.1.tlog
+Game/Client/x64/Debug/Client.tlog/rc.write.1.tlog
