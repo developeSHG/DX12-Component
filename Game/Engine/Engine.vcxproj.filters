@@ -13,6 +13,9 @@
     <Filter Include="Shader">
       <UniqueIdentifier>{faae06f8-b35e-42a7-92c8-65d50dd86248}</UniqueIdentifier>
     </Filter>
+    <Filter Include="GameObject">
+      <UniqueIdentifier>{9670bb1a-8d1d-4693-ba4e-4bf75906aa1e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
