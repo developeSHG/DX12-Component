@@ -20,7 +20,7 @@ void Input::Update()
 	}
 
 	BYTE asciiKeys[KEY_TYPE_COUNT] = {};
-	if (::GetKeyboardState(asciiKeys) == false) // 256개 배열을 넣어줘서 각 버츄얼 키의 상태를 가져오는 함수
+	if (::GetKeyboardState(asciiKeys) == false)
 		return;
 
 	for (uint32 key = 0; key < KEY_TYPE_COUNT; key++)
