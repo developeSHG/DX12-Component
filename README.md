@@ -15,7 +15,7 @@
 <br><b>History</b> : https://github.com/developeSHG/DX12-Component/commits/02.Material
 
 <br><h3>Chapter 03. Component</h3>
-<img width="10%" src="https://user-images.githubusercontent.com/79896868/254761691-2072e045-dac8-4c44-b4b3-4b7c96827dbc.png"/>
+<img width="30%" src="https://user-images.githubusercontent.com/79896868/254761691-2072e045-dac8-4c44-b4b3-4b7c96827dbc.png"/>
 <b>Blog</b> : https://song-ift.tistory.com/407
 <br><b>History</b> : https://github.com/developeSHG/DX12-Component/commits/03.Component
 
